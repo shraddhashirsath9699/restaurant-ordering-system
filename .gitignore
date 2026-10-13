@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Keep example environment files
+!.env.example
